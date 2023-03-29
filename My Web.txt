@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+</head>
+
+<body data-by-spy="scroll" data-target=".navbar" data-ofset="50">
+<nav class="navbar navbar-dark bg-secondary navbar-expand-sm sticky-top">
+  <ul class="navbar-nav">
+    <li class="nav-item"><a href="#1" class="nav-link active">What is MY Web.com?</a></li>
+    <li class="nav-item"><a href="#2" class="nav-link">About</a></li>
+    <li class="nav-item"><a href="#3" class="nav-link">Education</a></li>
+  </ul>
+</nav>
+  <div class="container-fluid bg-success">
+    <h1 class="display-1 text-dark"><u>MY Web.com</u></h1>
+  <p>Where I show my identity!</p><br>
+  </div>
+<div id="1" class="container-fluid bg-success">
+  <p class="display-4"><u><i>What is MY Web.com?</i></u></p>
+  <p><code>MY Web.com</code> is a website where <abbr title="MD.Ahyan Alam">I</abbr> showcase my self! Or identity you could say.It'll have    all the information and all the things about me! So that, you know,      you could understaind who I really am. You will definetly get a blast to see my self-identity.</p>
+</div>
+<div id="2" class="container-fluid bg-primary">
+  <p class="display-4"><u><i>About me</i></u></p>
+  <p>My name's MD.Ahyan ALam. I read in Grade 6. My hobby is programming,cycling etc. I live in Bangladesh. My favourite food is pizza, and if I go to my favourite healthy food, it's chicken. What about my favourite <abbr title="Vegetable">vegi</abbr>? Well, you could say it is potatoe. I want to be scientist one day. Yep, then you could say what my favourite subject is, Science! and also Math. You know what lego is? Well, you may know, it's a thing where you can build stuff by stacking blocks on top of another. Click <a href="https://www.lego.com/en-us" class="text-dark">here</a> to go to their website. Anyways, where was I? Ow! right, Lego. Well, I am a colloector of it! I make many things with lego, like cars, vans, animals etc!</p>
+</div>
+<div id="3" class="container-fluid bg-danger">
+  <p class="display-4"><u><i>Education Life</i></u></p>
+  <table width="300" border="3px">
+          <tr>
+            <td><b>Grade</b></td>
+            <td><b>Year</b></td>
+            <td><b>School</b></td>
+          </tr>
+          <tr>
+            <td>P.G</td>
+            <td>2015</td>
+            <td>Scholarshome,Supply Campus</td>
+          </tr>
+          <tr>
+            <td>K.G-1</td>
+            <td>2016</td>
+            <td>Scholarshome,Supply Campus</td>
+          </tr>
+          <tr>
+            <td>K.G-2</td>
+            <td>2017</td>
+            <td>Scholarshome,Supply Campus</td>
+          </tr>
+          <tr>
+            <td>Class 1</td>
+            <td>2018</td>
+            <td>Scholarshome,Supply Campus</td>
+          </tr>
+          <tr>
+            <td>Class 2</td>
+            <td>2019</td>
+            <td>Scholarshome,Supply Campus</td>
+          </tr>
+          <tr>
+            <td>Class 3</td>
+            <td>2020</td>
+            <td>Scholarshome,Tilagor Campus</td>
+          </tr>
+          <tr>
+            <td>Class 4</td>
+            <td>2021</td>
+            <td>Scholarshome,Tilagor Campus</td>
+          </tr>
+          <tr>
+            <td>Class 5</td>
+            <td>2022</td>
+            <td>Scholarshome,Tilagor Campus</td>
+          </tr>
+          <tr>
+            <td>Class 6</td>
+            <td>2023</td>
+            <td>Scholarshome,TB Gate Campus</td>
+          </tr>
+        </table></td>
+</div>
+</body>
+
+</html>
