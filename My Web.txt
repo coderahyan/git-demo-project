@@ -18,11 +18,11 @@
   </ul>
 </nav>
   <div class="container-fluid bg-success">
-    <h1 class="display-1 text-dark"><u>MY Web.com</u></h1>
+    <h1 class="display-1 text-dark"><u>MY Web</u></h1>
   <p>Where you learn about me!</p><br>
   </div>
 <div id="1" class="container-fluid bg-success">
-  <p class="display-4"><u><i>What is MY Web.com?</i></u></p>
+  <p class="display-4"><u><i>What is MY Web?</i></u></p>
   <p><code>MY Web.com</code> is a website where <abbr title="MD.Ahyan Alam">I</abbr> showcase my self! Or identity you could say.It'll have    all the information and all the things about me! So that, you know,      you could understaind who I really am. You will definetly get a blast to see my self-identity.</p>
 </div>
 <div id="2" class="container-fluid bg-primary">
