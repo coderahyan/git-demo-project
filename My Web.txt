@@ -27,7 +27,7 @@
 </div>
 <div id="2" class="container-fluid bg-primary">
   <p class="display-4"><u><i>About me</i></u></p>
-  <p>My name's MD.Ahyan ALam. I read in Grade 6. My hobby is programming,cycling etc. I live in Bangladesh. My favourite food is pizza, and if I go to my favourite healthy food, it's chicken. What about my favourite <abbr title="Vegetable">vegi</abbr>? Well, you could say it is potatoe. I want to be scientist one day. Yep, then you could say what my favourite subject is, Science! and also Math. You know what lego is? Well, you may know, it's a thing where you can build stuff by stacking blocks on top of another. Click <a href="https://www.lego.com/en-us" class="text-dark">here</a> to go to their website. Anyways, where was I? Ow! right, Lego. Well, I am a colloector of it! I make many things with lego, like cars, vans, animals etc!</p>
+  <p>My name's MD.Ahyan ALam. I read in Grade 6. My hobby is programming,cycling etc. I live in Bangladesh. My favourite food is pizza, and if I go to my favourite healthy food, it's chicken. What about my favourite <abbr title="Vegetable">vegi</abbr>? Well, you could say it is potato. I want to be scientist or a software engineer one day. Yep, then you could say what my favourite subject is, Science! and also Math. You know what lego is? Well, you may know, it's a thing where you can build stuff by stacking blocks on top of another. Click <a href="https://www.lego.com/en-us" class="text-dark">here</a> to go to their website. Anyways, where was I? Ow! right, Lego. Well, I am a colloector of it! I make many things with lego, like cars, vans, animals etc!</p>
 </div>
 <div id="3" class="container-fluid bg-danger">
   <p class="display-4"><u><i>Education Life</i></u></p>
