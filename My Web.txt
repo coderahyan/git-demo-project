@@ -19,7 +19,7 @@
 </nav>
   <div class="container-fluid bg-success">
     <h1 class="display-1 text-dark"><u>MY Web.com</u></h1>
-  <p>Where I show my identity!</p><br>
+  <p>Where you learn about me!</p><br>
   </div>
 <div id="1" class="container-fluid bg-success">
   <p class="display-4"><u><i>What is MY Web.com?</i></u></p>
