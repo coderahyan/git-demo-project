@@ -23,7 +23,7 @@
   </div>
 <div id="1" class="container-fluid bg-success">
   <p class="display-4"><u><i>What is MY Web?</i></u></p>
-  <p><code>MY Web.com</code> is a website where <abbr title="MD.Ahyan Alam">I</abbr> showcase my self! Or identity you could say.It'll have    all the information and all the things about me! So that, you know,      you could understaind who I really am. You will definetly get a blast to see my self-identity.</p>
+  <p>MY Web.com is a website where <abbr title="MD.Ahyan Alam">I</abbr> showcase my self! Or identity you could say.It'll have    all the information and all the things about me! So that, you know,      you could understaind who I really am. You will definetly get a blast to see my self-identity.</p>
 </div>
 <div id="2" class="container-fluid bg-primary">
   <p class="display-4"><u><i>About me</i></u></p>
